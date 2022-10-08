@@ -1,0 +1,92 @@
+<html>
+  <head>
+    <title>Curiculum Vitae Mochammad Buffon</title>
+ <style>
+  .CV{
+  width:500px;
+        height:120px;
+  top:10px;
+        background:transparent url(CV.png) no-repeat top left;
+  }
+ </style>
+  </head>
+  <body style="background-color: #00b2cc;">
+    <h1 align="center">Curriculum Vitae</h1>
+    <h2>Data Pribadi</h2>
+    <table width="800px">
+      <tbody>
+        <tr>
+          <td width="25%">Nama Lengkap</td>
+          <td width="1%">:</td>
+          <td>Mochammad Buffon</td>
+    <td rowspan="5" width="350px" align="left"><img src="WhatsApp Image 2022-10-08 at 20.55.02.jpeg" alt="Me with Rini Sugianto" title="Mochammad Buffon" height="200px" width="150px"></td>
+        </tr>
+        <tr>
+          <td>Tempat, Tanggal Lahir</td>
+          <td>:</td>
+          <td>Jakarta, 7 Maret 2002</td>
+        </tr>
+        <tr>
+          <td>Alamat</td>
+          <td>:</td>
+          <td>Jl. Marzuki VI Cakung, Jakarta</td>
+        </tr>
+     <td>Email</td>
+          <td>:</td>
+          <td>buffonmochammad63@gmail.com</td>
+        </tr>
+      </tbody>
+    </table>
+  <h2>Pendidikan Formal</h2>
+    <table width="800px">
+      <tbody>
+        <tr>
+          <td width="25%">Sekarang</td>
+          <td width="1%">:</td>
+          <td>STT Terpadu Nurul Fikri, Jurusan Sistem Informasi</td>
+        </tr>
+        <tr>
+          <td>2017 - 2022</td>
+          <td>:</td>
+          <td>SMKN 26 Jakarta</td>
+        </tr>
+        <tr>
+          <td>2014 - 2017</td>
+          <td>:</td>
+          <td>SMPN 139 Jakarta</td>
+        <tr>
+          <td>2008 - 2014</td>
+          <td>:</td>
+          <td>SDN Malaka Sari 09 Petang</td>
+        </tr>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+  <h2>Pengalaman Kerja</h2>
+    <table width="800px">
+     <tbody>
+        <tr>
+          <td width="25%">2021 - 2022</td>
+          <td width="1%">:</td>
+          <td>Maintenance, PT Michelin Indonesia</td>
+        </tr>
+        <tr>
+          <td>2020 - 2021</td>
+          <td width="1%">:</td>
+          <td>Instruktur, PT Duta Nusantara</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td width="1%">:</td>
+          <td></td>
+        </tr>
+      </tbody>
+     </table>
+<br><br>
+</body>
+</html>
